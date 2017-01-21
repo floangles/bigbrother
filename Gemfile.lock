@@ -1,6 +1,5 @@
 GEM
   specs:
-    json (2.0.2)
     rack (1.6.5)
     rack-protection (1.5.3)
       rack
@@ -15,7 +14,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  json
   sass
   sinatra
 
